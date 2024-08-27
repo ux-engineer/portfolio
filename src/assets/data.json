@@ -1,0 +1,774 @@
+{
+   "contact": {
+      "name": "Janne Kurkinen",
+      "profession": "Senior Developer & Designer",
+      "location": "FINLAND Pirkanmaa, Sastamala (near Tampere)",
+      "email": "XX",
+      "phone": "XX",
+      "mainContact": "Contact via LinkedIn"
+   },
+   "profileLinks": [
+      {
+         "title": "LinkedIn",
+         "url": "https://linkedin.com/in/uxengineer",
+         "img": "icons/linkedin.svg"
+      },
+      {
+         "title": "FrontendMasters",
+         "url": "https://frontendmasters.com/u/UXEngineer/",
+         "img": "icons/frontendmasters-opt.svg"
+      },
+      {
+         "title": "GitHub",
+         "url": "https://github.com/ux-engineer",
+         "img": "icons/github.svg"
+      },
+      {
+         "title": "StackOverflow",
+         "url": "https://stackoverflow.com/users/2442714/ux-engineer",
+         "img": "icons/stackoverflow.svg"
+      }
+   ],
+   "intro": {
+      "sectionTitle": "Intro",
+      "title": "Widely-versed Senior Web Application Developer with Lead & Full Stack experience, who knows how to design.",
+      "body": "Crafting Single-Page Web or Hybrid Web Applications & User Interfaces for SME business’, organizations, and startups. Self-taught over 22 years, with professional qualifications as a Production Technician & an Entrepreneur.",
+      "foot": "Senior UI/Lead/Fullstack Developer · Senior Web/UI/UX Designer · Specialist in Data Visualization"
+   },
+   "years": {
+      "sectionTitle": "Years of XP",
+      "content": [
+         [
+            "Entrepreneurship",
+            10
+         ],
+         [
+            "Professional Web Software Development",
+            12
+         ],
+         [
+            "Hobby",
+            23
+         ],
+         [
+            "Life",
+            38
+         ]
+      ]
+   },
+   "projects": {
+      "sectionTitle": "Projects",
+      "content": [
+         {
+            "company": "Solita Ltd (Keva, the Finnish Pension Agency)",
+            "position": "Senior Frontend Lead Developer & UI/UX/DataViz Designer",
+            "details": {
+               "dateRange": {
+                  "start": [
+                     "2019",
+                     "12"
+                  ],
+                  "end": [
+                     "2021",
+                     "12"
+                  ]
+               },
+               "location": "Helsinki, Finland",
+               "type": "Contract, Remote + On-site"
+            },
+            "body": "Full-time contractor for a governmental institution based in Helsinki. Lead responsibility for UI application development with rebuilding and redesigning their most used public web service with ~1M yearly users, following the European accessibility act requirements (VueJS in TypeScript). Prior worked on separate projects for the business and the military customer segments.",
+            "keywords": [
+               "TypeScript",
+               "VueJS",
+               "Accessibility",
+               "BootstrapVue",
+               "SASS",
+               "KendoUI",
+               "Angular",
+               "Azure",
+               "DevOps",
+               "Scrum"
+            ]
+         },
+         {
+            "company": "Aspire Technology Ltd",
+            "position": "Frontend R&D Lead Developer, UI/Designer & Data Visualization Specialist",
+            "details": {
+               "dateRange": {
+                  "start": [
+                     "2019",
+                     "02"
+                  ],
+                  "end": [
+                     "2019",
+                     "07"
+                  ]
+               },
+               "location": "Dublin, Ireland",
+               "type": "Contract, Remote + On-site"
+            },
+            "body": "Building several data visualization dashboard pilot projects for a tech consulting company in telecom industry. Created an internal UI Component Library with Storybook. Set up and documented DevOps processes for deploying Docker container clusters in AWS.",
+            "keywords": [
+               "TypeScript",
+               "VueJS",
+               "NuxtJS",
+               "D3",
+               "Apexcharts",
+               "Buefy",
+               "Bulma",
+               "Storybook",
+               "SASS",
+               "Docker",
+               "AWS"
+            ]
+         },
+         {
+            "company": "Atostek Ltd",
+            "position": "Senior Frontend Developer",
+            "details": {
+               "dateRange": {
+                  "start": [
+                     "2018",
+                     "12"
+                  ],
+                  "end": [
+                     "2019",
+                     "02"
+                  ]
+               },
+               "location": "Tampere, Finland",
+               "type": "Contract, Remote"
+            },
+            "body": "As a subcontractor for an industrial client, built a light front-end application for generating estimates and quotes using Angular.",
+            "keywords": [
+               "TypeScript",
+               "Angular",
+               "Bootstrap",
+               "Accessibility",
+               "SASS"
+            ]
+         },
+         {
+            "company": "Payroll Finland Ltd",
+            "position": "Senior Frontend Developer",
+            "details": {
+               "dateRange": {
+                  "start": [
+                     "2018",
+                     "02"
+                  ],
+                  "end": [
+                     "2018",
+                     "09"
+                  ]
+               },
+               "location": "Helsinki, Finland",
+               "type": "Contract, Remote + On-site"
+            },
+            "body": "Refactoring AngularJS codebase as Ionic Angular hybrid-mobile components. Converted reporting templates from HTML to Mustache. Crafted a responsive and zoomable document preview component.",
+            "keywords": [
+               "TypeScript",
+               "Angular",
+               "Hybrid–Mobile",
+               "Ionic",
+               "Component Library",
+               "NPM",
+               "AJAX/XHR"
+            ]
+         },
+         {
+            "company": "Emfit Ltd",
+            "position": "Lead Full-Stack Web Application Developer & UI Designer",
+            "details": {
+               "dateRange": {
+                  "start": [
+                     "2013",
+                     "11"
+                  ],
+                  "end": [
+                     "2018",
+                     "02"
+                  ]
+               },
+               "location": "Jyväskylä, Finland",
+               "type": "Contract, Remote"
+            },
+            "bodyHTML": "<p class='pb-10'><img style='float: right; margin-left: 15px; margin-right: -100px;' width='250' src='/images/german-design-award-nominee.jpg' alt='German Design Award Nominee 2017 with Special Mention on Excellent Product Design for Emfit QS'>Worked as the <b>Lead Full-Stack Developer</b> in close collaboration with the company's CEO, algorithm research, and hardware geniuses on planning, database design, and data processing. Built and maintained the API backend with integrations to various health data aggregation services. Implemented an elder care alarm system.</p><p><img style='float: left; margin-left: -100px; margin-right: 15px;' width='200' src='/images/german-design-award-17-nominee.jpg' alt='German Design Award Nominee 2017 with Special Mention on Excellent Product Design for Emfit QS #2'>Designed and built a fully responsive health measurement data dashboard application with around 40 data visualization charts. <b>Emfit QS Sleep and Recovery Monitor</b> got nominated as <b>German Design Award Nominee 2017 with Special Mention on Excellent Product Design</b> in Slush, the world’s leading startup event held yearly in Helsinki.</p><p>Engineered a fully responsive web-based <b>Clinical Sleep Scoring and Reporting Tool</b> for medical doctors’ and sleep researchers’ use with custom-tailored D3.js charting performantly handling millions of data points.</p>",
+            "keywords": [
+               "Full-Stack",
+               "Laravel PHP",
+               "REST API & Integrations",
+               "MSSQL",
+               "JavaScript",
+               "AngularJS",
+               "Responsive Web Design",
+               "Data Visualization",
+               "HighCharts",
+               "D3"
+            ]
+         },
+         {
+            "company": "KM Growth Oy (Asuntolaskuri)",
+            "position": "Fullstack Web Application Developer",
+            "details": {
+               "dateRange": {
+                  "start": [
+                     "2012",
+                     "09"
+                  ],
+                  "end": [
+                     "2013",
+                     "11"
+                  ],
+                  "extra": "admin –2019"
+               },
+               "location": "Tampere, Finland",
+               "type": "Part-time Contract, Remote – Admin until 2019"
+            },
+            "body": "Built an innovative web service for Finnish real estate investors. Including analysis tools for personal finances and prospective investment properties, with collated historical data on completed real estate sales prices on the areas.",
+            "keywords": [
+               "Full-Stack",
+               "Laravel PHP",
+               "JavaScript",
+               "jQuery",
+               "Vanilla SPA",
+               "AJAX/XHR",
+               "Data Visualization",
+               "HTML/CSS"
+            ]
+         }
+      ]
+   },
+   "focusareas": {
+      "sectionTitle": "Main Focus",
+      "content": [
+         "Front-End Single-Page Applications",
+         "Vue, React, & Angular",
+         "JavaScript / TypeScript",
+         "UI Components",
+         "Data Visualization",
+         "Responsive Web/UI/UX Design"
+      ]
+   },
+   "skills": {
+      "sectionTitle": "Skills & Tooling",
+      "content": [
+         {
+            "title": "Programming Languages",
+            "data": [
+               [
+                  "JavaScript / EcmaScript 6- / TypeScript 2-",
+                  "CSS 2- / SASS / LESS",
+                  "HTML 4-5"
+               ],
+               [
+                  "PHP 4-7"
+               ],
+               [
+                  "Python 3",
+                  "XHTML / XML / XPath",
+                  "C++",
+                  "ANSI C",
+                  "VisualBasic"
+               ]
+            ]
+         },
+         {
+            "title": "Frontend Frameworks",
+            "data": [
+               [
+                  "Vue"
+               ],
+               [
+                  "React",
+                  "Angular",
+                  "NuxtJS",
+                  "NextJS"
+               ],
+               [
+                  "AngularJS"
+               ]
+            ]
+         },
+         {
+            "title": "Frontend Component Libraries & Tooling",
+            "data": [
+               [
+                  "Tailwind",
+                  "Twitter Bootstrap 2-",
+                  "StorybookJS"
+               ],
+               [
+                  "Buefy / Bulma",
+                  "AntDesign",
+                  "Tachyons",
+                  "Angular Material"
+               ],
+               []
+            ]
+         },
+         {
+            "title": "Backend Frameworks",
+            "data": [
+               [
+                  "Laravel PHP (+ Nova/Spark/Lumen)"
+               ],
+               [
+                  "NodeJS",
+                  "ExpressJS"
+               ],
+               []
+            ]
+         },
+         {
+            "title": "API Development",
+            "data": [
+               [
+                  "REST APIs & Integrations"
+               ],
+               [
+                  "Authentication (JWT/OAuth)",
+                  "Swagger/OpenAPI"
+               ],
+               [
+                  "AJAX/XHR"
+               ]
+            ]
+         },
+         {
+            "title": "Designing",
+            "data": [
+               [
+                  "Data Visualization",
+                  "UI/UX/Responsive Design",
+                  "Information Architecture"
+               ],
+               [
+                  "Design Systems",
+                  "Design Guide",
+                  "Web Accessibility (WCAG)",
+                  "Logo / Brand Design",
+                  "Wireframing",
+                  "Prototyping",
+                  "Typography / Webfonts",
+                  "Icons",
+                  "SVG"
+               ],
+               [
+                  "Print Design"
+               ]
+            ]
+         },
+         {
+            "title": "Design Tools",
+            "data": [
+               [
+                  "Sketch App",
+                  "Figma",
+                  "Adobe Photoshop / Illustrator / InDesign"
+               ],
+               [
+                  "Axure"
+               ],
+               [
+                  "CAD",
+                  "Flash"
+               ]
+            ]
+         },
+         {
+            "title": "Data Visualization Libraries",
+            "data": [
+               [
+                  "D3.js / C3 / BriteCharts",
+                  "Highcharts/Highstock"
+               ],
+               [
+                  "Apexcharts"
+               ],
+               [
+                  "Kendo UI"
+               ]
+            ]
+         },
+         {
+            "title": "Hybrid Web Application Tooling",
+            "data": [
+               [
+                  "PWA"
+               ],
+               [
+                  "Electron",
+                  "Ionic"
+               ],
+               []
+            ]
+         },
+         {
+            "title": "Test Tooling",
+            "data": [
+               [
+                  "Playwright",
+                  "Cypress",
+                  "Jest / Mocha / Chai"
+               ],
+               [
+                  "PhpUnit"
+               ],
+               [
+                  "Laravel Dusk (Selenium)"
+               ]
+            ]
+         },
+         {
+            "title": "DevOps Tooling",
+            "data": [
+               [
+                  "Docker"
+               ],
+               [
+                  "Azure DevOps",
+                  "Amazon AWS (IAM, S3, EC2, ECS, ECR, ELB, RDS)"
+               ],
+               [
+                  "Vagrant",
+                  "VirtualBox"
+               ]
+            ]
+         },
+         {
+            "title": "Databases",
+            "data": [
+               [
+                  "MySQL",
+                  "PostgreSQL"
+               ],
+               [
+                  "MSSQL"
+               ],
+               [
+                  "Redis",
+                  "MongoDB"
+               ]
+            ]
+         },
+         {
+            "title": "Templating & Markup Languages",
+            "data": [
+               [
+                  "JSX",
+                  "Vue Templates",
+                  "HTML",
+                  "JSON"
+               ],
+               [
+                  "Blade PHP",
+                  "Mustache"
+               ],
+               [
+                  "XML",
+                  "XHTML"
+               ]
+            ]
+         },
+         {
+            "title": "Main Operating System & Coding Environment",
+            "data": [
+               [
+                  "macOS 06-",
+                  "CLI (iTerm / ZSH)",
+                  "VSCode"
+               ],
+               [
+                  "Windows 95-",
+                  "Postman",
+                  "Insomnia",
+                  "Sequel Pro"
+               ],
+               [
+                  "WebStorm / PHPStorm IDE",
+                  "SublimeText",
+                  "DataGrip"
+               ]
+            ]
+         },
+         {
+            "title": "Server Operating Systems",
+            "data": [
+               [
+                  "Linux (CentOS/Alpine/Debian/Ubuntu)"
+               ],
+               [
+                  "Windows Server 2000-2012"
+               ],
+               [
+                  "Synology DSM"
+               ]
+            ]
+         },
+         {
+            "title": "Developer Tooling",
+            "data": [
+               [
+                  "GIT (Github/Bitbucket/Gitlab)",
+                  "NPM",
+                  "Vite",
+                  "Webpack",
+                  "ESlint/Stylelint"
+               ],
+               [
+                  "Yarn",
+                  "PHP Composer"
+               ],
+               [
+                  "Babel",
+                  "Gulp",
+                  "Grunt",
+                  "PhantomJS"
+               ]
+            ]
+         },
+         {
+            "title": "Content Management Systems",
+            "data": [
+               [
+                  "Laravel Nova"
+               ],
+               [
+                  "Wordpress",
+                  "SquareSpace"
+               ],
+               [
+                  "Concrete5",
+                  "Laravel Voyager",
+                  "OctoberCMS",
+                  "Joomla!",
+                  "Drupal"
+               ]
+            ]
+         },
+         {
+            "title": "E-commerce Platforms",
+            "data": [
+               [
+                  "MyCashflow"
+               ],
+               [
+                  "Shopify",
+                  "SquareSpace"
+               ],
+               []
+            ]
+         },
+         {
+            "title": "Marketing",
+            "data": [
+               [
+                  "Email Template Development",
+                  "Transactional Emailing",
+                  "MailChimp",
+                  "Sparkpost",
+                  "Sendgrid",
+                  "Mailgun",
+                  "Postmark"
+               ],
+               [
+                  "Email Marketing",
+                  "SEO",
+                  "Google Analytics"
+               ],
+               [
+                  "Google AdWords"
+               ]
+            ]
+         },
+         {
+            "title": "Business",
+            "data": [
+               [
+                  "Entrepreneurship"
+               ],
+               [
+                  "Technical Customer Support",
+                  "Accounting",
+                  "Excel"
+               ],
+               [
+                  "IPR & Trademarks"
+               ]
+            ]
+         },
+         {
+            "title": "App Monitoring",
+            "data": [
+               [
+                  "Sentry"
+               ],
+               [
+                  "Loggly"
+               ],
+               [
+                  "New Relic",
+                  "UptimeRobot"
+               ]
+            ]
+         }
+      ]
+   },
+   "employment": {
+      "sectionTitle": "Work XP",
+      "content": [
+         {
+            "title": "Creative Coder, Owner · ENVISION Productions Ltd",
+            "dateRange": {
+               "start": [
+                  "2012",
+                  "03"
+               ],
+               "end": [
+                  "2022",
+                  "01"
+               ]
+            },
+            "body": "Solo entrepreneur focused in tailored web and SaaS apps as per client’s needs, primarily in longer subcontracting projects."
+         },
+         {
+            "title": "Freelance Web Designer—Developer",
+            "dateRange": {
+               "start": [
+                  "2010",
+                  "01"
+               ],
+               "end": [
+                  "2012",
+                  "03"
+               ]
+            }
+         },
+         {
+            "title": "Production Technician · Corelase Ltd, Tampere",
+            "dateRange": {
+               "start": [
+                  "2009",
+                  "01"
+               ],
+               "end": [
+                  "2009",
+                  "08"
+               ]
+            },
+            "body": "End-assembly and testing of high-powered fiber-optical lasers for industrial and academic use."
+         },
+         {
+            "title": "Signalman in Military Service · HQ Company, Finnish Defence Forces",
+            "dateRange": {
+               "start": [
+                  "2009",
+                  "01"
+               ],
+               "end": [
+                  "2009",
+                  "08"
+               ]
+            },
+            "body": "Experience with fiber-optical cabling and communication terminals while in compulsory military service."
+         },
+         {
+            "title": "Electronics Production Worker · Biohit PLC, Kajaani",
+            "dateRange": {
+               "start": [
+                  "2005",
+                  "06"
+               ],
+               "end": [
+                  "2005",
+                  "07"
+               ]
+            }
+         }
+      ]
+   },
+   "education": {
+      "sectionTitle": "Education",
+      "content": [
+         {
+            "title": "Independent Studies in Modern Web Design & Development",
+            "dateRange": {
+               "start": [
+                  "2010",
+                  "01"
+               ],
+               "end": [
+                  "2012",
+                  "03"
+               ]
+            }
+         },
+         {
+            "title": "Entrepreneur’s Vocational Degree, College of Tampere",
+            "dateRange": {
+               "start": [
+                  "2009",
+                  "09"
+               ],
+               "end": [
+                  "2009",
+                  "12"
+               ]
+            }
+         },
+         {
+            "title": "Independent Studies in Natural Therapies (Zonetherapy)",
+            "dateRange": {
+               "start": [
+                  "2003",
+                  "06"
+               ],
+               "end": [
+                  "2005",
+                  "07"
+               ]
+            }
+         },
+         {
+            "title": "Electronics Technician, College of Technology Kainuu",
+            "dateRange": {
+               "start": [
+                  "2002",
+                  "08"
+               ],
+               "end": [
+                  "2005",
+                  "12"
+               ]
+            },
+            "body": "Electronics, Embedded Systems, Ansi-C, C++, Digital & Computer Sciences, Electrical Engineering. For 5 wks in student exchange in Slovenia for robotics development project funded by EU Galileo Project. Grades 4.8/5, 4th Rank in National AMMATTIKKA Math Contest in 2005"
+         },
+         {
+            "title": "High School of Kainuu",
+            "dateRange": {
+               "start": [
+                  "2002",
+                  "08"
+               ],
+               "end": [
+                  "2005",
+                  "12"
+               ]
+            },
+            "body": "Grades 8.5/10, Matriculation: Adv. Math E, Adv. Physics E, Adv. English M, Finnish C, Adv. Swedish A."
+         }
+      ]
+   },
+   "hobbies": {
+      "sectionTitle": "Hobbies",
+      "content": [
+         "Walks in nature with dogs",
+         "Yoga & Meditation",
+         "Snowboarding",
+         "Music",
+         "Dancing",
+         "Studies"
+      ]
+   }
+}
