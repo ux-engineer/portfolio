@@ -2,32 +2,39 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  height: 100%;
+  background-color: #f3f4f6;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+#bg {
+  min-height: 100%;
+  min-width: 1024px;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -100;
+  background-color: #fff;
+  opacity: 0.5;
+  background-size: contain;
+  background-image: linear-gradient(#7dd3fc 2.2px, transparent 2.2px),
+    linear-gradient(90deg, #7dd3fc 2.2px, transparent 2.2px),
+    linear-gradient(#7dd3fc 1.1px, transparent 1.1px),
+    linear-gradient(90deg, #7dd3fc 1.1px, #fff 1.1px);
+  background-size:
+    55px 55px,
+    55px 55px,
+    11px 11px,
+    11px 11px;
+  background-position:
+    -2.2px -2.2px,
+    -2.2px -2.2px,
+    -1.1px -1.1px,
+    -1.1px -1.1px;
+}
+
+.writing-mode-vertical {
+  writing-mode: vertical-rl;
 }
