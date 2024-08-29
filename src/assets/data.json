@@ -254,368 +254,393 @@
       "sectionTitle": "Skills & Tooling",
       "content": [
          {
-            "title": "Programming Languages",
-            "data": [
-               [
-                  "JavaScript / EcmaScript 6- / TypeScript 2-",
-                  "CSS 2- / LESS / SASS",
-                  "HTML 4-",
-                  "PHP 4-7"
-               ],
-               [
-                  "Python 3",
-                  "Bash"
-               ],
-               [
-                  "XHTML / XML / XPath",
-                  "Java",
-                  "C++",
-                  "ANSI C",
-                  "VisualBasic"
-               ]
+            "topicTitle": "Core",
+            "content": [
+               {
+                  "title": "Programming Languages",
+                  "data": [
+                     [
+                        "JavaScript / EcmaScript 6- / TypeScript 2-",
+                        "CSS 2- / LESS / SASS",
+                        "HTML 4-",
+                        "PHP 4-7"
+                     ],
+                     [
+                        "Python 3",
+                        "Bash"
+                     ],
+                     [
+                        "XHTML / XML / XPath",
+                        "Java",
+                        "C++",
+                        "ANSI C",
+                        "VisualBasic"
+                     ]
+                  ]
+               },
+               {
+                  "title": "Software Architecture & Development Processes",
+                  "data": [
+                     [
+                        "REST APIs & Integrations"
+                     ],
+                     [
+                        "Scrum",
+                        "Documentation (Swagger / OpenAPI)"
+                     ],
+                     []
+                  ]
+               },
+               {
+                  "title": "Test Tooling",
+                  "data": [
+                     [
+                        "Playwright",
+                        "Cypress",
+                        "Jest / Mocha / Chai"
+                     ],
+                     [
+                        "PhpUnit"
+                     ],
+                     [
+                        "Laravel Dusk (Selenium)"
+                     ]
+                  ]
+               },
+               {
+                  "title": "Main Operating System & Coding Environment",
+                  "data": [
+                     [
+                        "macOS 06-",
+                        "CLI (iTerm / ZSH)",
+                        "VSCode"
+                     ],
+                     [
+                        "Windows 95-",
+                        "Postman",
+                        "Insomnia",
+                        "Sequel Pro"
+                     ],
+                     [
+                        "WebStorm / PHPStorm IDE",
+                        "SublimeText",
+                        "DataGrip"
+                     ]
+                  ]
+               },
+               {
+                  "title": "Developer Tooling",
+                  "data": [
+                     [
+                        "GIT (Github / Bitbucket / Gitlab)",
+                        "NPM",
+                        "Vite",
+                        "Webpack",
+                        "ESlint / Stylelint"
+                     ],
+                     [
+                        "Yarn",
+                        "PHP Composer"
+                     ],
+                     [
+                        "Babel",
+                        "Gulp",
+                        "Grunt",
+                        "PhantomJS"
+                     ]
+                  ]
+               }
             ]
          },
          {
-            "title": "Frontend Frameworks",
-            "data": [
-               [
-                  "Vue"
-               ],
-               [
-                  "React",
-                  "Angular",
-                  "NuxtJS",
-                  "NextJS"
-               ],
-               [
-                  "AngularJS",
-                  "VanillaJS + AJAX/XHR + jQuery",
-                  "Flash"
-               ]
+            "topicTitle": "Frontend",
+            "content": [
+               {
+                  "title": "Frontend Frameworks",
+                  "data": [
+                     [
+                        "Vue"
+                     ],
+                     [
+                        "React",
+                        "Angular",
+                        "NuxtJS",
+                        "NextJS"
+                     ],
+                     [
+                        "AngularJS",
+                        "VanillaJS + AJAX/XHR + jQuery",
+                        "Flash"
+                     ]
+                  ]
+               },
+               {
+                  "title": "Frontend Component Libraries & Tooling",
+                  "data": [
+                     [
+                        "Tailwind",
+                        "Twitter Bootstrap 2-",
+                        "StorybookJS"
+                     ],
+                     [
+                        "Material Design"
+                     ],
+                     [
+                        "Buefy / Bulma",
+                        "AntDesign",
+                        "Tachyons"
+                     ]
+                  ]
+               },
+               {
+                  "title": "Data Visualization Libraries",
+                  "data": [
+                     [
+                        "D3.js",
+                        "Highcharts / Highstock"
+                     ],
+                     [
+                        "Apexcharts"
+                     ],
+                     [
+                        "Kendo UI"
+                     ]
+                  ]
+               },
+               {
+                  "title": "Hybrid Web Application Tooling",
+                  "data": [
+                     [
+                        "PWA"
+                     ],
+                     [
+                        "Electron",
+                        "Ionic"
+                     ],
+                     []
+                  ]
+               },
+               {
+                  "title": "Templating & Markup Languages",
+                  "data": [
+                     [
+                        "JSX",
+                        "Vue Templates",
+                        "HTML",
+                        "JSON"
+                     ],
+                     [
+                        "Blade PHP",
+                        "Mustache"
+                     ],
+                     [
+                        "XML",
+                        "XHTML"
+                     ]
+                  ]
+               }
             ]
          },
          {
-            "title": "Frontend Component Libraries & Tooling",
-            "data": [
-               [
-                  "Tailwind",
-                  "Twitter Bootstrap 2-",
-                  "StorybookJS"
-               ],
-               [
-                  "Material Design"
-               ],
-               [
-                  "Buefy / Bulma",
-                  "AntDesign",
-                  "Tachyons"
-               ]
+            "topicTitle": "Fullstack",
+            "content": [
+               {
+                  "title": "Backend Frameworks",
+                  "data": [
+                     [
+                        "Laravel (+ Nova/Spark/Lumen) [PHP]"
+                     ],
+                     [
+                        "NuxtJS / NextJS / ExpressJS [NodeJS]"
+                     ],
+                     [
+                        "Django [Python]"
+                     ]
+                  ]
+               },
+               {
+                  "title": "Databases",
+                  "data": [
+                     [
+                        "PostgreSQL",
+                        "MySQL"
+                     ],
+                     [
+                        "MSSQL"
+                     ],
+                     [
+                        "MongoDB",
+                        "Redis"
+                     ]
+                  ]
+               },
+               {
+                  "title": "Server Operating Systems",
+                  "data": [
+                     [
+                        "Linux (Debian / Alpine / CentOS / Ubuntu)"
+                     ],
+                     [
+                        "Windows Server 2000-2012"
+                     ],
+                     [
+                        "Synology DSM"
+                     ]
+                  ]
+               },
+               {
+                  "title": "DevOps Tooling",
+                  "data": [
+                     [
+                        "Docker",
+                        "Serverless (Netlify / Vercel)"
+                     ],
+                     [
+                        "Azure DevOps",
+                        "Amazon AWS (IAM, S3, EC2, ECS, ECR, ELB, RDS)"
+                     ],
+                     [
+                        "DigitalOcean",
+                        "Vagrant",
+                        "VirtualBox"
+                     ]
+                  ]
+               },
+               {
+                  "title": "App Monitoring",
+                  "data": [
+                     [
+                        "Sentry"
+                     ],
+                     [
+                        "Loggly"
+                     ],
+                     [
+                        "New Relic",
+                        "UptimeRobot"
+                     ]
+                  ]
+               }
             ]
          },
          {
-            "title": "Backend Frameworks",
-            "data": [
-               [
-                  "Laravel (+ Nova/Spark/Lumen) [PHP]"
-               ],
-               [
-                  "NuxtJS / NextJS / ExpressJS [NodeJS]"
-               ],
-               [
-                  "Django [Python]"
-               ]
+            "topicTitle": "Design",
+            "content": [
+               {
+                  "title": "Design Processes",
+                  "data": [
+                     [
+                        "UI / UX / Responsive Design",
+                        "Data Visualization",
+                        "Information Architecture"
+                     ],
+                     [
+                        "Web Accessibility (WCAG)",
+                        "Design Systems",
+                        "Logo / Brand Design",
+                        "Wireframing",
+                        "Prototyping",
+                        "Typography / Webfonts",
+                        "Icons",
+                        "SVG"
+                     ],
+                     [
+                        "Design Guide",
+                        "Print Design"
+                     ]
+                  ]
+               },
+               {
+                  "title": "Design Tools",
+                  "data": [
+                     [
+                        "Sketch App",
+                        "Figma",
+                        "Adobe Photoshop / Illustrator / InDesign"
+                     ],
+                     [
+                        "Axure"
+                     ],
+                     [
+                        "CAD"
+                     ]
+                  ]
+               }
             ]
          },
          {
-            "title": "Software Architecture & Development Processes",
-            "data": [
-               [
-                  "REST APIs & Integrations"
-               ],
-               [
-                  "Scrum",
-                  "Documentation (Swagger / OpenAPI)"
-               ],
-               []
-            ]
-         },
-         {
-            "title": "Design Processes",
-            "data": [
-               [
-                  "UI / UX / Responsive Design",
-                  "Data Visualization",
-                  "Information Architecture"
-               ],
-               [
-                  "Web Accessibility (WCAG)",
-                  "Design Systems",
-                  "Logo / Brand Design",
-                  "Wireframing",
-                  "Prototyping",
-                  "Typography / Webfonts",
-                  "Icons",
-                  "SVG"
-               ],
-               [
-                  "Design Guide",
-                  "Print Design"
-               ]
-            ]
-         },
-         {
-            "title": "Design Tools",
-            "data": [
-               [
-                  "Sketch App",
-                  "Figma",
-                  "Adobe Photoshop / Illustrator / InDesign"
-               ],
-               [
-                  "Axure"
-               ],
-               [
-                  "CAD"
-               ]
-            ]
-         },
-         {
-            "title": "Data Visualization Libraries",
-            "data": [
-               [
-                  "D3.js",
-                  "Highcharts / Highstock"
-               ],
-               [
-                  "Apexcharts"
-               ],
-               [
-                  "Kendo UI"
-               ]
-            ]
-         },
-         {
-            "title": "DevOps Tooling",
-            "data": [
-               [
-                  "Docker",
-                  "Serverless (Netlify / Vercel)"
-               ],
-               [
-                  "Azure DevOps",
-                  "Amazon AWS (IAM, S3, EC2, ECS, ECR, ELB, RDS)"
-               ],
-               [
-                  "DigitalOcean",
-                  "Vagrant",
-                  "VirtualBox"
-               ]
-            ]
-         },
-         {
-            "title": "Databases",
-            "data": [
-               [
-                  "PostgreSQL",
-                  "MySQL"
-               ],
-               [
-                  "MSSQL"
-               ],
-               [
-                  "MongoDB",
-                  "Redis"
-               ]
-            ]
-         },
-         {
-            "title": "Hybrid Web Application Tooling",
-            "data": [
-               [
-                  "PWA"
-               ],
-               [
-                  "Electron",
-                  "Ionic"
-               ],
-               []
-            ]
-         },
-         {
-            "title": "Test Tooling",
-            "data": [
-               [
-                  "Playwright",
-                  "Cypress",
-                  "Jest / Mocha / Chai"
-               ],
-               [
-                  "PhpUnit"
-               ],
-               [
-                  "Laravel Dusk (Selenium)"
-               ]
-            ]
-         },
-         {
-            "title": "Templating & Markup Languages",
-            "data": [
-               [
-                  "JSX",
-                  "Vue Templates",
-                  "HTML",
-                  "JSON"
-               ],
-               [
-                  "Blade PHP",
-                  "Mustache"
-               ],
-               [
-                  "XML",
-                  "XHTML"
-               ]
-            ]
-         },
-         {
-            "title": "Main Operating System & Coding Environment",
-            "data": [
-               [
-                  "macOS 06-",
-                  "CLI (iTerm / ZSH)",
-                  "VSCode"
-               ],
-               [
-                  "Windows 95-",
-                  "Postman",
-                  "Insomnia",
-                  "Sequel Pro"
-               ],
-               [
-                  "WebStorm / PHPStorm IDE",
-                  "SublimeText",
-                  "DataGrip"
-               ]
-            ]
-         },
-         {
-            "title": "Server Operating Systems",
-            "data": [
-               [
-                  "Linux (Debian / Alpine / CentOS / Ubuntu)"
-               ],
-               [
-                  "Windows Server 2000-2012"
-               ],
-               [
-                  "Synology DSM"
-               ]
-            ]
-         },
-         {
-            "title": "Developer Tooling",
-            "data": [
-               [
-                  "GIT (Github / Bitbucket / Gitlab)",
-                  "NPM",
-                  "Vite",
-                  "Webpack",
-                  "ESlint / Stylelint"
-               ],
-               [
-                  "Yarn",
-                  "PHP Composer"
-               ],
-               [
-                  "Babel",
-                  "Gulp",
-                  "Grunt",
-                  "PhantomJS"
-               ]
-            ]
-         },
-         {
-            "title": "Content Management Systems",
-            "data": [
-               [
-                  "Laravel Nova"
-               ],
-               [
-                  "Wordpress",
-                  "SquareSpace"
-               ],
-               [
-                  "Concrete5",
-                  "Laravel Voyager",
-                  "OctoberCMS",
-                  "Joomla!",
-                  "Drupal"
-               ]
-            ]
-         },
-         {
-            "title": "E-commerce Platforms",
-            "data": [
-               [
-                  "MyCashflow"
-               ],
-               [
-                  "Shopify",
-                  "SquareSpace"
-               ],
-               []
-            ]
-         },
-         {
-            "title": "Marketing",
-            "data": [
-               [
-                  "Email Template Development",
-                  "Transactional Emailing",
-                  "MailChimp",
-                  "Sparkpost",
-                  "Sendgrid",
-                  "Mailgun",
-                  "Postmark"
-               ],
-               [
-                  "Email Marketing",
-                  "SEO",
-                  "Google Analytics"
-               ],
-               [
-                  "Google AdWords"
-               ]
-            ]
-         },
-         {
-            "title": "Business",
-            "data": [
-               [
-                  "Entrepreneurship"
-               ],
-               [
-                  "Technical Customer Support",
-                  "Accounting",
-                  "Excel"
-               ],
-               [
-                  "IPR & Trademarks"
-               ]
-            ]
-         },
-         {
-            "title": "App Monitoring",
-            "data": [
-               [
-                  "Sentry"
-               ],
-               [
-                  "Loggly"
-               ],
-               [
-                  "New Relic",
-                  "UptimeRobot"
-               ]
+            "topicTitle": "Business",
+            "content": [
+               {
+                  "title": "Content Management Systems",
+                  "data": [
+                     [
+                        "Laravel Nova"
+                     ],
+                     [
+                        "Wordpress",
+                        "SquareSpace"
+                     ],
+                     [
+                        "Concrete5",
+                        "Laravel Voyager",
+                        "OctoberCMS",
+                        "Joomla!",
+                        "Drupal"
+                     ]
+                  ]
+               },
+               {
+                  "title": "E-commerce Platforms",
+                  "data": [
+                     [
+                        "MyCashflow"
+                     ],
+                     [
+                        "Shopify",
+                        "SquareSpace"
+                     ],
+                     []
+                  ]
+               },
+               {
+                  "title": "Marketing",
+                  "data": [
+                     [
+                        "Email Template Development",
+                        "Transactional Emailing",
+                        "MailChimp",
+                        "Sparkpost",
+                        "Sendgrid",
+                        "Mailgun",
+                        "Postmark"
+                     ],
+                     [
+                        "Email Marketing",
+                        "SEO",
+                        "Google Analytics"
+                     ],
+                     [
+                        "Google AdWords"
+                     ]
+                  ]
+               },
+               {
+                  "title": "Business Management",
+                  "data": [
+                     [
+                        "Entrepreneurship"
+                     ],
+                     [
+                        "Technical Customer Support",
+                        "Accounting",
+                        "Excel"
+                     ],
+                     [
+                        "IPR & Trademarks"
+                     ]
+                  ]
+               }
             ]
          }
       ]
