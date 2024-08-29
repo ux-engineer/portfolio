@@ -112,7 +112,7 @@
                "TypeScript",
                "VueJS",
                "NuxtJS",
-               "D3",
+               "D3.js",
                "Apexcharts",
                "Buefy",
                "Bulma",
@@ -204,7 +204,7 @@
                "Responsive Web Design",
                "Data Visualization",
                "HighCharts",
-               "D3"
+               "D3.js"
             ]
          },
          {
@@ -243,11 +243,11 @@
       "sectionTitle": "Main Focus",
       "content": [
          "Front-End Single-Page Applications",
-         "Vue, React, & Angular",
+         "Vue, React, & Angular frameworks",
          "JavaScript / TypeScript",
          "UI Components",
          "Data Visualization",
-         "Responsive Web/UI/UX Design"
+         "Responsive Web / UI / UX Design"
       ]
    },
    "skills": {
@@ -258,15 +258,17 @@
             "data": [
                [
                   "JavaScript / EcmaScript 6- / TypeScript 2-",
-                  "CSS 2- / SASS / LESS",
-                  "HTML 4-5"
-               ],
-               [
+                  "CSS 2- / LESS / SASS",
+                  "HTML 4-",
                   "PHP 4-7"
                ],
                [
                   "Python 3",
+                  "Bash"
+               ],
+               [
                   "XHTML / XML / XPath",
+                  "Java",
                   "C++",
                   "ANSI C",
                   "VisualBasic"
@@ -286,7 +288,9 @@
                   "NextJS"
                ],
                [
-                  "AngularJS"
+                  "AngularJS",
+                  "VanillaJS + AJAX/XHR + jQuery",
+                  "Flash"
                ]
             ]
          },
@@ -299,54 +303,53 @@
                   "StorybookJS"
                ],
                [
+                  "Material Design"
+               ],
+               [
                   "Buefy / Bulma",
                   "AntDesign",
-                  "Tachyons",
-                  "Angular Material"
-               ],
-               []
+                  "Tachyons"
+               ]
             ]
          },
          {
             "title": "Backend Frameworks",
             "data": [
                [
-                  "Laravel PHP (+ Nova/Spark/Lumen)"
+                  "Laravel (+ Nova/Spark/Lumen) [PHP]"
                ],
                [
-                  "NodeJS",
-                  "ExpressJS"
+                  "NuxtJS / NextJS / ExpressJS [NodeJS]"
                ],
-               []
+               [
+                  "Django [Python]"
+               ]
             ]
          },
          {
-            "title": "API Development",
+            "title": "Software Architecture & Development Processes",
             "data": [
                [
                   "REST APIs & Integrations"
                ],
                [
-                  "Authentication (JWT/OAuth)",
-                  "Swagger/OpenAPI"
+                  "Scrum",
+                  "Documentation (Swagger / OpenAPI)"
                ],
-               [
-                  "AJAX/XHR"
-               ]
+               []
             ]
          },
          {
-            "title": "Designing",
+            "title": "Design Processes",
             "data": [
                [
+                  "UI / UX / Responsive Design",
                   "Data Visualization",
-                  "UI/UX/Responsive Design",
                   "Information Architecture"
                ],
                [
-                  "Design Systems",
-                  "Design Guide",
                   "Web Accessibility (WCAG)",
+                  "Design Systems",
                   "Logo / Brand Design",
                   "Wireframing",
                   "Prototyping",
@@ -355,6 +358,7 @@
                   "SVG"
                ],
                [
+                  "Design Guide",
                   "Print Design"
                ]
             ]
@@ -371,8 +375,7 @@
                   "Axure"
                ],
                [
-                  "CAD",
-                  "Flash"
+                  "CAD"
                ]
             ]
          },
@@ -380,8 +383,8 @@
             "title": "Data Visualization Libraries",
             "data": [
                [
-                  "D3.js / C3 / BriteCharts",
-                  "Highcharts/Highstock"
+                  "D3.js",
+                  "Highcharts / Highstock"
                ],
                [
                   "Apexcharts"
@@ -440,15 +443,15 @@
             "title": "Databases",
             "data": [
                [
-                  "MySQL",
-                  "PostgreSQL"
+                  "PostgreSQL",
+                  "MySQL"
                ],
                [
                   "MSSQL"
                ],
                [
-                  "Redis",
-                  "MongoDB"
+                  "MongoDB",
+                  "Redis"
                ]
             ]
          },
@@ -496,7 +499,7 @@
             "title": "Server Operating Systems",
             "data": [
                [
-                  "Linux (CentOS/Alpine/Debian/Ubuntu)"
+                  "Linux (Debian / Alpine / CentOS / Ubuntu)"
                ],
                [
                   "Windows Server 2000-2012"
@@ -510,11 +513,11 @@
             "title": "Developer Tooling",
             "data": [
                [
-                  "GIT (Github/Bitbucket/Gitlab)",
+                  "GIT (Github / Bitbucket / Gitlab)",
                   "NPM",
                   "Vite",
                   "Webpack",
-                  "ESlint/Stylelint"
+                  "ESlint / Stylelint"
                ],
                [
                   "Yarn",

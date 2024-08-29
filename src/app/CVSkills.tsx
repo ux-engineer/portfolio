@@ -13,7 +13,7 @@ export default function CVSkills() {
       <div className="col-span-9 pr-10">
           {skills.content.map(skillset => (
             <p key={skillset.title} className="pb-3">
-              <span className="text-orange-500 uppercase text-sm">{skillset.title}</span><span className="text-cyan-500">&nbsp;: </span>
+              <span className="pr-3 text-cyan-500 uppercase text-sm font-light">{skillset.title}</span>
               { skillset.data &&
               <span className="text-xs tracking-wider">
                 {skillset.data[0].map(skill => (
