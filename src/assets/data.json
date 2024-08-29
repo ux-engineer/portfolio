@@ -395,6 +395,40 @@
             ]
          },
          {
+            "title": "DevOps Tooling",
+            "data": [
+               [
+                  "Docker",
+                  "Serverless (Netlify / Vercel)"
+               ],
+               [
+                  "Azure DevOps",
+                  "Amazon AWS (IAM, S3, EC2, ECS, ECR, ELB, RDS)"
+               ],
+               [
+                  "DigitalOcean",
+                  "Vagrant",
+                  "VirtualBox"
+               ]
+            ]
+         },
+         {
+            "title": "Databases",
+            "data": [
+               [
+                  "PostgreSQL",
+                  "MySQL"
+               ],
+               [
+                  "MSSQL"
+               ],
+               [
+                  "MongoDB",
+                  "Redis"
+               ]
+            ]
+         },
+         {
             "title": "Hybrid Web Application Tooling",
             "data": [
                [
@@ -420,38 +454,6 @@
                ],
                [
                   "Laravel Dusk (Selenium)"
-               ]
-            ]
-         },
-         {
-            "title": "DevOps Tooling",
-            "data": [
-               [
-                  "Docker"
-               ],
-               [
-                  "Azure DevOps",
-                  "Amazon AWS (IAM, S3, EC2, ECS, ECR, ELB, RDS)"
-               ],
-               [
-                  "Vagrant",
-                  "VirtualBox"
-               ]
-            ]
-         },
-         {
-            "title": "Databases",
-            "data": [
-               [
-                  "PostgreSQL",
-                  "MySQL"
-               ],
-               [
-                  "MSSQL"
-               ],
-               [
-                  "MongoDB",
-                  "Redis"
                ]
             ]
          },
