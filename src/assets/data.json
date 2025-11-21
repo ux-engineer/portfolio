@@ -292,40 +292,22 @@
                   ]
                },
                {
-                  "title": "Test Tooling",
-                  "data": [
-                     [
-                        "Playwright",
-                        "Cypress",
-                        "Jest / Mocha / Chai"
-                     ],
-                     [
-                        "PhpUnit"
-                     ],
-                     [
-                        "Laravel Dusk (Selenium)"
-                     ]
-                  ]
-               },
-               {
                   "title": "Main Operating System & Coding Environment",
                   "data": [
                      [
                         "macOS 06-",
-                        "CLI (iTerm / ZSH)",
-                        "VSCode"
+                        "CLI (Shell bash / iTerm / ZSH)",
+                        "VSCode",
+                        "Postman / Insomnia"
                      ],
                      [
-                        "Windows 95-",
-                        "Postman",
-                        "Insomnia",
-                        "Sequel Pro"
-                     ],
-                     [
-                        "WebStorm / PHPStorm IDE",
                         "SublimeText",
-                        "DataGrip"
-                     ]
+                        "DataGrip",
+                        "WebStorm / PHPStorm",
+                        "Sequel Pro",
+                        "Windows 95-"
+                     ],
+                     []
                   ]
                },
                {
@@ -365,11 +347,12 @@
                         "React",
                         "Angular",
                         "NuxtJS",
-                        "NextJS"
+                        "NextJS",
+                        "VanillaJS + AJAX/XHR"
                      ],
                      [
                         "AngularJS",
-                        "VanillaJS + AJAX/XHR + jQuery",
+                        "jQuery",
                         "Flash"
                      ]
                   ]
@@ -400,7 +383,7 @@
                         "Highcharts / Highstock"
                      ],
                      [
-                        "Apexcharts"
+                        "ApexCharts"
                      ],
                      [
                         "Kendo UI"
@@ -427,10 +410,10 @@
                         "JSX",
                         "Vue Templates",
                         "HTML",
-                        "JSON"
+                        "JSON",
+                        "Blade PHP"
                      ],
                      [
-                        "Blade PHP",
                         "Mustache"
                      ],
                      [
@@ -442,13 +425,13 @@
             ]
          },
          {
-            "topicTitle": "Fullstack",
+            "topicTitle": "Full Stack",
             "content": [
                {
                   "title": "Backend Frameworks",
                   "data": [
                      [
-                        "Laravel (+ Nova/Spark/Lumen) [PHP]"
+                        "Laravel +Nova/Spark/Lumen [PHP]"
                      ],
                      [
                         "NuxtJS / NextJS / ExpressJS [NodeJS]"
@@ -463,15 +446,15 @@
                   "data": [
                      [
                         "PostgreSQL",
-                        "MySQL"
-                     ],
-                     [
-                        "MSSQL"
+                        "MySQL",
+                        "Redis"
                      ],
                      [
                         "MongoDB",
-                        "Redis"
-                     ]
+                        "Redis",
+                        "MSSQL"
+                     ],
+                     []
                   ]
                },
                {
@@ -489,19 +472,35 @@
                   ]
                },
                {
+                  "title": "Test Tooling",
+                  "data": [
+                     [
+                        "Playwright",
+                        "Cypress",
+                        "Jest / Mocha / Chai"
+                     ],
+                     [
+                        "PhpUnit"
+                     ],
+                     [
+                        "Laravel Dusk (Selenium)"
+                     ]
+                  ]
+               },
+               {
                   "title": "DevOps Tooling",
                   "data": [
                      [
-                        "Docker",
+                        "Docker / Docker Swarm",
                         "Serverless (Netlify / Vercel)"
                      ],
                      [
                         "Azure DevOps",
-                        "Amazon AWS (IAM, S3, EC2, ECS, ECR, ELB, RDS)"
+                        "Amazon AWS (IAM, S3, EC2, ECS, ECR, ELB, RDS)",
+                        "DigitalOcean"
                      ],
                      [
-                        "DigitalOcean",
-                        "Vagrant",
+                        "Vagrant virtualization",
                         "VirtualBox"
                      ]
                   ]
@@ -510,13 +509,13 @@
                   "title": "App Monitoring",
                   "data": [
                      [
+                        "New Relic",
                         "Sentry"
                      ],
                      [
                         "Loggly"
                      ],
                      [
-                        "New Relic",
                         "UptimeRobot"
                      ]
                   ]
@@ -536,6 +535,7 @@
                      ],
                      [
                         "Web Accessibility (WCAG)",
+                        "Design Guide",
                         "Design Systems",
                         "Logo / Brand Design",
                         "Wireframing",
@@ -545,7 +545,6 @@
                         "SVG"
                      ],
                      [
-                        "Design Guide",
                         "Print Design"
                      ]
                   ]
@@ -575,10 +574,10 @@
                   "title": "Content Management Systems",
                   "data": [
                      [
-                        "Laravel Nova"
+                        "Laravel Nova",
+                        "WordPress"
                      ],
                      [
-                        "Wordpress",
                         "SquareSpace"
                      ],
                      [
@@ -594,10 +593,11 @@
                   "title": "E-commerce Platforms",
                   "data": [
                      [
-                        "MyCashflow"
+                        "MyCashflow",
+                        "Shopify",
+                        "Stripe"
                      ],
                      [
-                        "Shopify",
                         "SquareSpace"
                      ],
                      []
@@ -607,6 +607,8 @@
                   "title": "Marketing",
                   "data": [
                      [
+                        "Email Marketing",
+                        "SEO",
                         "Email Template Development",
                         "Transactional Emailing",
                         "MailChimp",
@@ -616,8 +618,6 @@
                         "Postmark"
                      ],
                      [
-                        "Email Marketing",
-                        "SEO",
                         "Google Analytics"
                      ],
                      [
@@ -629,10 +629,10 @@
                   "title": "Business Management",
                   "data": [
                      [
-                        "Entrepreneurship"
+                        "Entrepreneurship",
+                        "Technical Customer Support"
                      ],
                      [
-                        "Technical Customer Support",
                         "Accounting",
                         "Excel"
                      ],
@@ -649,7 +649,7 @@
       "sectionTitle": "Work XP",
       "content": [
          {
-            "title": "Creative Coder, Owner · ENVISION Productions Ltd",
+            "title": "Creative Coder, Contracting Senior Lead Developer & UI Designer, Owner · ENVISION Productions Ltd",
             "dateRange": {
                "start": [
                   "2012",
@@ -693,11 +693,11 @@
             "title": "Signalman in Military Service · HQ Company, Finnish Defence Forces",
             "dateRange": {
                "start": [
-                  "2009",
+                  "2006",
                   "01"
                ],
                "end": [
-                  "2009",
+                  "2006",
                   "08"
                ]
             },
@@ -751,11 +751,11 @@
             "title": "Independent Studies in Natural Therapies (Zonetherapy)",
             "dateRange": {
                "start": [
-                  "2003",
+                  "2007",
                   "06"
                ],
                "end": [
-                  "2005",
+                  "2008",
                   "07"
                ]
             }
@@ -799,6 +799,33 @@
          "Music",
          "Dancing",
          "Studies"
+      ]
+   },
+   "interests": {
+      "sectionTitle": "Interests",
+      "content": [
+         "meditation",
+         "nature",
+         "walking",
+         "hiking",
+         "snowboarding",
+         "research",
+         "technology",
+         "history",
+         "cybersecurity",
+         "security",
+         "web design",
+         "design",
+         "science",
+         "programming",
+         "project management",
+         "product management",
+         "problem solving",
+         "product design",
+         "productivity",
+         "grand strategy",
+         "strategy video games",
+         "strategy",
       ]
    }
 }
