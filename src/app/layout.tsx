@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'UX.Engineer · Janne Kurkinen',
-  description: 'The portfolio site of senior web app developer Janne Kurkinen.',
+  description: 'The portfolio site of Senior Web App Full Stack Developer & UI/UX Designer, Janne Kurkinen.',
 }
 
 export default function RootLayout({

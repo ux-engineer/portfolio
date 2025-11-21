@@ -1,8 +1,8 @@
 {
    "contact": {
       "name": "Janne Kurkinen",
-      "profession": "Senior Developer & Designer",
-      "location": "FINLAND Pirkanmaa, Sastamala (near Tampere)",
+      "profession": "Senior Full Stack Developer & UI Designer",
+      "location": "FINLAND",
       "email": "XX",
       "phone": "XX",
       "mainContact": "Contact via LinkedIn"
@@ -31,8 +31,8 @@
    ],
    "intro": {
       "sectionTitle": "Intro",
-      "title": "Widely-versed Senior Web Application Developer with Lead & Full Stack experience, who knows how to design.",
-      "body": "Crafting Single-Page Web or Hybrid Web Applications & User Interfaces for SME business’, organizations, and startups. Self-taught over 22 years, with professional qualifications as a Production Technician & an Entrepreneur.",
+      "title": "Widely-versed Senior Web Application Full Stack Developer with Lead experience, and who knows how to design.",
+      "body": "Crafting Single-Page Web or Hybrid Web Applications & User Interfaces for SME business’, organizations, and startups. Self-taught over 25 years with professional qualifications as Electronics and Production Technician & Entrepreneur.",
       "foot": "Senior UI/Lead/Fullstack Developer · Senior Web/UI/UX Designer · Specialist in Data Visualization"
    },
    "years": {
@@ -48,11 +48,11 @@
          ],
          [
             "Hobby",
-            23
+            25
          ],
          [
             "Life",
-            38
+            39
          ]
       ]
    },
@@ -263,7 +263,7 @@
                         "JavaScript / EcmaScript 6- / TypeScript 2-",
                         "CSS 2- / LESS / SASS",
                         "HTML 4-",
-                        "PHP 4-7"
+                        "PHP 4-"
                      ],
                      [
                         "Python 3",
@@ -329,96 +329,6 @@
                         "Gulp",
                         "Grunt",
                         "PhantomJS"
-                     ]
-                  ]
-               }
-            ]
-         },
-         {
-            "topicTitle": "Frontend",
-            "content": [
-               {
-                  "title": "Frontend Frameworks",
-                  "data": [
-                     [
-                        "Vue"
-                     ],
-                     [
-                        "React",
-                        "Angular",
-                        "NuxtJS",
-                        "NextJS",
-                        "VanillaJS + AJAX/XHR"
-                     ],
-                     [
-                        "AngularJS",
-                        "jQuery",
-                        "Flash"
-                     ]
-                  ]
-               },
-               {
-                  "title": "Frontend Component Libraries & Tooling",
-                  "data": [
-                     [
-                        "Tailwind",
-                        "Twitter Bootstrap 2-",
-                        "StorybookJS"
-                     ],
-                     [
-                        "Material Design"
-                     ],
-                     [
-                        "Buefy / Bulma",
-                        "AntDesign",
-                        "Tachyons"
-                     ]
-                  ]
-               },
-               {
-                  "title": "Data Visualization Libraries",
-                  "data": [
-                     [
-                        "D3.js",
-                        "Highcharts / Highstock"
-                     ],
-                     [
-                        "ApexCharts"
-                     ],
-                     [
-                        "Kendo UI"
-                     ]
-                  ]
-               },
-               {
-                  "title": "Hybrid Web Application Tooling",
-                  "data": [
-                     [
-                        "PWA"
-                     ],
-                     [
-                        "Electron",
-                        "Ionic"
-                     ],
-                     []
-                  ]
-               },
-               {
-                  "title": "Templating & Markup Languages",
-                  "data": [
-                     [
-                        "JSX",
-                        "Vue Templates",
-                        "HTML",
-                        "JSON",
-                        "Blade PHP"
-                     ],
-                     [
-                        "Mustache"
-                     ],
-                     [
-                        "XML",
-                        "XHTML"
                      ]
                   ]
                }
@@ -517,6 +427,96 @@
                      ],
                      [
                         "UptimeRobot"
+                     ]
+                  ]
+               }
+            ]
+         },
+         {
+            "topicTitle": "Frontend",
+            "content": [
+               {
+                  "title": "Frontend Frameworks",
+                  "data": [
+                     [
+                        "Vue"
+                     ],
+                     [
+                        "React",
+                        "Angular",
+                        "NuxtJS",
+                        "NextJS",
+                        "VanillaJS + AJAX/XHR"
+                     ],
+                     [
+                        "AngularJS",
+                        "jQuery",
+                        "Flash"
+                     ]
+                  ]
+               },
+               {
+                  "title": "Frontend Component Libraries & Tooling",
+                  "data": [
+                     [
+                        "Tailwind",
+                        "Twitter Bootstrap 2-",
+                        "StorybookJS"
+                     ],
+                     [
+                        "Material Design"
+                     ],
+                     [
+                        "Buefy / Bulma",
+                        "AntDesign",
+                        "Tachyons"
+                     ]
+                  ]
+               },
+               {
+                  "title": "Data Visualization Libraries",
+                  "data": [
+                     [
+                        "D3.js",
+                        "Highcharts / Highstock"
+                     ],
+                     [
+                        "ApexCharts"
+                     ],
+                     [
+                        "Kendo UI"
+                     ]
+                  ]
+               },
+               {
+                  "title": "Hybrid Web Application Tooling",
+                  "data": [
+                     [
+                        "PWA"
+                     ],
+                     [
+                        "Electron",
+                        "Ionic"
+                     ],
+                     []
+                  ]
+               },
+               {
+                  "title": "Templating & Markup Languages",
+                  "data": [
+                     [
+                        "JSX",
+                        "Vue Templates",
+                        "HTML",
+                        "JSON",
+                        "Blade PHP"
+                     ],
+                     [
+                        "Mustache"
+                     ],
+                     [
+                        "XML",
+                        "XHTML"
                      ]
                   ]
                }
@@ -649,7 +649,7 @@
       "sectionTitle": "Work XP",
       "content": [
          {
-            "title": "Creative Coder, Contracting Senior Lead Developer & UI Designer, Owner · ENVISION Productions Ltd",
+            "title": "Creative Coder, Contracting Senior Developer & UI Designer, Owner · ENVISION Productions Ltd",
             "dateRange": {
                "start": [
                   "2012",
@@ -790,42 +790,36 @@
          }
       ]
    },
-   "hobbies": {
-      "sectionTitle": "Hobbies",
-      "content": [
-         "Walks in nature with dogs",
-         "Yoga & Meditation",
-         "Snowboarding",
-         "Music",
-         "Dancing",
-         "Studies"
-      ]
-   },
    "interests": {
       "sectionTitle": "Interests",
       "content": [
-         "meditation",
          "nature",
-         "walking",
-         "hiking",
-         "snowboarding",
-         "research",
-         "technology",
-         "history",
-         "cybersecurity",
-         "security",
-         "web design",
-         "design",
-         "science",
-         "programming",
-         "project management",
-         "product management",
-         "problem solving",
-         "product design",
+         "dogs",
+         "animals welfare",
+         "human health",
          "productivity",
-         "grand strategy",
-         "strategy video games",
+         "meditation",
+         "walking",
+         "snowboarding",
+         "hiking",
+         "science",
+         "technology",
+         "research",
+         "history",
+         "security",
+         "cybersecurity",
+         "web services",
+         "e-commerce",
+         "web/app/UI/UX/brand design",
+         "programming",
+         "devops",
+         "project management",
+         "product design",
+         "product development",
+         "problem solving",
          "strategy",
+         "strategy video games",
+         "grand strategy"
       ]
    }
 }
