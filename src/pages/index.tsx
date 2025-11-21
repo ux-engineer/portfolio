@@ -8,7 +8,6 @@ import CVSkills from '../app/CVSkills';
 import CVFocus from '../app/CVFocus';
 import CVEmployment from '../app/CVEmployment';
 import CVEducation from '../app/CVEducation';
-import CVInterests from '../app/CVInterests';
 
 const prompt = Prompt({
   weight: ['300', '400', '500', '600', '700'],
@@ -30,7 +29,6 @@ export default function Home() {
         <CVSkills />
         <CVEmployment />
         <CVEducation />
-        <CVInterests />
       </main>
       <footer id="CopyFooter" className="pt-5 pb-7 text-center text-xs tracking-wider text-slate-500"><small>Copyright &copy; UX.Engineer, Janne Kurkinen ({copyYears})</small></footer>
       <div id="bg"></div>
