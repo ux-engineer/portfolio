@@ -13,7 +13,7 @@ export default function CVIntro() {
       <div className="col-span-9 lg:col-span-9 sm:pr-10">
         <h4 className="font-semibold">{intro.title}</h4>
         <p className="my-5">{intro.body}</p>
-        <p className="text-sm font-semibold text-slate-600 tracking-wider">{intro.foot}</p>
+        <p className="text-sm font-semibold  text-cyan-600 tracking-wider">{intro.foot}</p>
       </div>
     </section>
   );
